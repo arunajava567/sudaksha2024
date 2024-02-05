@@ -1,0 +1,6 @@
+1. create table to dislpay courses details using bootstraptable
+
+2. create and display dashboard to display different types of mobiles with brandname,price and availability dates.
+
+3. create login screen and display various boostrap alerts like success, warning, danger etc.
+
