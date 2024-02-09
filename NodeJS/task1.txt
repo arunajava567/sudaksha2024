@@ -1,0 +1,23 @@
+Problem Statement:
+Create a text file names.txt and add the following data to it.
+1.	Oliver,Jack,Harry,Jacob,Charlie,Thomas
+2.	 
+Now create a JavaScript file user.js and copy paste the below code
+1.	const fs = require("fs");
+2.	
+3.	let logUser = (username) => {
+4.	   //Your implementation goes here
+5.	};
+6.	
+7.	logUser("Sam");
+8.	 
+Whenever a function call happens, you should check whether the username already exists in the text file or not. If exists display a message saying "User already exists". If not, add the user to the text file as a comma separated. After adding the username to the text file, display a success message saying "<<username>> has been added successfully".
+Note: Perform case insensitive comparison
+ 
+Sample Input and Expected Output:
+Input	Output
+Sam	Sam has been added successfully
+jack	User already exists
+ 
+Next we will be learn how to modularize the program in a node application.
+
