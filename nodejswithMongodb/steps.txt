@@ -1,0 +1,5 @@
+npm install mongoose
+npm install mongodb
+
+run server.js
+run employeeserver.js
