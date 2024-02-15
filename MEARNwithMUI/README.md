@@ -54,14 +54,3 @@ npm install
 npm run dev
 ```
 
-Navigate to [http://localhost:5173](http://localhost:5173) to access the app.
-
-### Contribution
-
-Feel free to contribute via pull requests. Bug fixes, enhancements, and more are welcome!
-
-### Contact
-
-For inquiries, reach out to [vasubhalodi111@gmaail.com](mailto:vasubhalodi111@gmaail.com).
-
-Experience Redux Toolkit's ease in managing states and dynamic updates in this CRUD Operations App!
